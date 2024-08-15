@@ -29,6 +29,10 @@ _____/\\\\\\\\\________/\\\\\\\\\\\__________/\\\\\\\\\__/\\\\\\\\\\\__/\\\\\\\\
         _\///________\///____\///////////___________\/////////__\///////////__\///////////__
 
 ```
+
+https://github.com/user-attachments/assets/a6b54c34-0d61-4589-b9ec-12d1b0e84460
+
+
 ## Overview:
 This is an in-progress project building a simple DOOM clone using ascii. True to the original game it relies on ray casting to give it a 3D appearance. I'm using the curses library to run it in the terminal and handle text input.
 
@@ -122,18 +126,8 @@ This is an in-progress project building a simple DOOM clone using ascii. True to
                                                     1001101                             1111001      10011101                           1011101      
                                                      1100011111111111111111111111111111110001          100001111111111111111111111111111100011                                                                                   
                                                        11111111111111111111111111111111111               111111111111111111111111111111111                                                                                                                                                                                         
-                                      
-                                                                                                                                                      
-                                                                                                                                                      
-                                                                                                                                                      
-                                                            
-                                                                                                                                                
-              
+                                                    
 </sub>
 
-
-
-### Demo Video
-https://github.com/user-attachments/assets/c15c00fb-fd0a-40a8-b63a-654470f99b19
 
 
